@@ -1,3 +1,26 @@
 .margin-top {
     margin-top: 20px;
 }
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
+.shadowed {
+    box-shadow: 2px 2px 20px #eee;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar-nav,
+.navbar-brand {
+    font-size: 24px;
+}
